@@ -55,6 +55,12 @@ python test_net.py --dataset pascal_voc --net vgg16 \
 ```
 SESSION、EPOCH、CHECKPOINT修改为自己想要前向测试的模型
 
+操作步骤可参考链接：第8步骤[测试test_.net.py](https://blog.csdn.net/weixin_44398211/article/details/114229817?spm=1001.2101.3001.6650.14&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-14-114229817-blog-105264651.pc_relevant_aa&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-14-114229817-blog-105264651.pc_relevant_aa&utm_relevant_index=23)
+
+### 【使用自己数据集】
+
+若想要使用自己的数据集训练，可参考链接第三步[使用自己的数据集训练](https://blog.csdn.net/ThunderF/article/details/100294913?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522167531313616800215069318%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fblog.%2522%257D&request_id=167531313616800215069318&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~blog~first_rank_ecpm_v1~rank_v31_ecpm-3-100294913-null-null.blog_rank_default&utm_term=windows%20%E7%BC%96%E8%AF%91faster-rcnn&spm=1018.2226.3001.4450)
+
 ### 参考链接
 
 自编写详细教程：[百度网盘word教程](链接：https://pan.baidu.com/s/1HzZKz97s8YoZxNvosvpbZw?pwd=oubt 
