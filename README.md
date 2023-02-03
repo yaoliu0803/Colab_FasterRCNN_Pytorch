@@ -63,8 +63,8 @@ SESSION、EPOCH、CHECKPOINT修改为自己想要前向测试的模型
 
 ### 参考链接
 
-自编写详细教程：[百度网盘word教程](链接：https://pan.baidu.com/s/1HzZKz97s8YoZxNvosvpbZw?pwd=oubt 
-提取码：oubt)
+自编写详细教程：[百度网盘word教程](链接：https://pan.baidu.com/s/18tcsezRLBQoQDOfWpi9gFw?pwd=pr62 
+提取码：pr62)
 
 参考CSDN链接：
 * Goolge Colab使用教程[Goolge Colab使用教程](https://blog.csdn.net/weixin_45912366/article/details/124253460?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522167539440816800192218631%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fall.%2522%257D&request_id=167539440816800192218631&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~first_rank_ecpm_v1~rank_v31_ecpm-2-124253460-null-null.142^v72^pc_search_v2,201^v4^add_ask&utm_term=colab%E9%87%8D%E5%91%BD%E5%90%8D%E6%96%87%E4%BB%B6%E5%90%8D%E5%91%BD%E4%BB%A4&spm=1018.2226.3001.4187)
