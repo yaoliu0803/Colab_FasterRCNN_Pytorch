@@ -73,7 +73,7 @@ SESSION、EPOCH、CHECKPOINT修改为自己想要前向测试的模型
 * Faster-RCNN.Pytorch的使用_ThunderF的博客-CSDN博客[Faster-RCNN.Pytorch的使用](https://blog.csdn.net/weixin_44398211/article/details/114229817?spm=1001.2101.3001.6650.14&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-14-114229817-blog-105264651.pc_relevant_aa&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-14-114229817-blog-105264651.pc_relevant_aa&utm_relevant_index=23)
 
 参考视频：
-* 1.bibli视频：[Bilibili_Colab_faster_rcnn][使用google colab 训练Faster RCNN教程_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Ka4y1v74p/?spm_id_from=333.999.0.0&vd_source=7f4303ee47e890f85798ca22b3dd22d3)
+* 1.bibli视频：[使用google colab 训练Faster RCNN教程_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Ka4y1v74p/?spm_id_from=333.999.0.0&vd_source=7f4303ee47e890f85798ca22b3dd22d3)
 * 2.YouTu视频：[How FasterRCNN works and step-by-step Pytorch implement](https://www.youtube.com/watch?v=4yOcsWg-7g8)
 
 
